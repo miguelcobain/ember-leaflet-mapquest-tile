@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "https://github.com/robneville73/ember-leaflet-mapquest-tile",
   "engines": {
     "node": ">= 0.12.0"
   },
